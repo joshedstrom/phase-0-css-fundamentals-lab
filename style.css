@@ -1,5 +1,38 @@
+header {
+  text-align: center;
+}
+nav a {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color:aquamarine;
+  margin: auto;
+}
+image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+}
+figcaption {
+  text-align: center;
+  font-size: 14px;
+}
+p#featured-property {
+  width: 800px;
+  text-align: center;
+  vertical-align: middle;
+  padding: 10px;
+}
+section {
+  vertical-align: middle;
+  text-align: center;
+}
+div#details {
+  float: left;
 }
